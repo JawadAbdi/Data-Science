@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# Web scraping is the process of collecting structured web data in an automated manner. It's also widely known as web data extraction or web data scraping. Some of the main use cases of web scraping include price monitoring, price intelligence, news monitoring, lead generation, and market research among many others.
+
+# HTML Parsing. HTML parsing involves the use of JavaScript to target a linear or nested HTML page. ...
+# DOM Parsing. ...
+# Vertical Aggregation. ...
+# XPath. ...
+# Google Sheets. ...
+# Rate Limit User Requests. ...
+# Mitigate High-Volume Requesters with CAPTCHAs. ...
+# Regularly Modify HTML Markup.
+
+# Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+
+# x=Flask is a lightweight framework to build websites. We'll use this to parse our collected data and display it as HTML in a new HTML file. The requests module allows us to send http requests to the website we want to scrape. The first line imports the Flask class and the render_template method from the flask library.
+
+# In[ ]:
+
+
+
+
